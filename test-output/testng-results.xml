@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-15T19:20:18 EST" name="Default suite" finished-at="2022-12-15T19:20:23 EST" duration-ms="4825">
+    <groups>
+    </groups>
+    <test started-at="2022-12-15T19:20:18 EST" name="Default test" finished-at="2022-12-15T19:20:23 EST" duration-ms="4825">
+      <class name="tests.PetStoreApiTests">
+        <test-method signature="postACat()[pri:0, instance:tests.PetStoreApiTests@3e92efc3]" started-at="2022-12-15T19:20:18 EST" name="postACat" finished-at="2022-12-15T19:20:23 EST" duration-ms="4760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postACat -->
+      </class> <!-- tests.PetStoreApiTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

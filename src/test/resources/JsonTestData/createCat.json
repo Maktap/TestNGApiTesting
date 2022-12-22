@@ -1,0 +1,17 @@
+{
+  "id" : 63265356,
+  "category" : {
+    "id" : 21,
+    "name" : "cat"
+  },
+  "name" : "Ember",
+  "photoUrls" : [ "string" ],
+  "tags" : [ {
+    "id" : 18,
+    "name" : "persian"
+  }, {
+    "id" : 2,
+    "name" : "Anatolian"
+  } ],
+  "status" : "available"
+}

@@ -13,7 +13,7 @@ public class CraterLoginPage {
 	
 	}
 	
-	@FindBy(name ="email")
+	@FindBy(xpath ="//input [@name = 'email']")
 	public WebElement useremail;
 	
 	@FindBy(name = "password")
